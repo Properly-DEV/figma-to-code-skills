@@ -6,7 +6,7 @@ HTML template for foundation/token pages (colors, typography, spacing, radius, s
 
 | Variable | Source | Example |
 |---|---|---|
-| `{{PROJECT_NAME}}` | CLAUDE.md project name | Eterna |
+| `{{PROJECT_NAME}}` | CLAUDE.md project name | Acme DS |
 | `{{FOUNDATION_NAME}}` | Page title | Colors |
 | `{{FOUNDATION_SLUG}}` | Lowercase | colors |
 | `{{NAV_ITEMS}}` | Full navigation tree HTML | `<li>...` |

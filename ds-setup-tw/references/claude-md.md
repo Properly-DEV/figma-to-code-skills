@@ -10,7 +10,7 @@ Generate `CLAUDE.md` in the project root. This is the "project memory" — every
 
 Ask the user for things you cannot infer from files:
 
-1. **Project / client name** — e.g. "Novark Design System", "Eterna UI"
+1. **Project / client name** — e.g. "Acme Design System", "Atlas UI"
 2. **Figma MCP available** — yes/no (affects how Claude should fetch data)
 3. **Figma file link** — if available
 

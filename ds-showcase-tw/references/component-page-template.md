@@ -6,7 +6,7 @@ Full HTML template for a single component's showcase page. The agent populates t
 
 | Variable | Source | Example |
 |---|---|---|
-| `{{PROJECT_NAME}}` | CLAUDE.md project name | Eterna |
+| `{{PROJECT_NAME}}` | CLAUDE.md project name | Acme DS |
 | `{{COMPONENT_NAME}}` | Component file name (PascalCase) | Button |
 | `{{COMPONENT_SLUG}}` | Lowercase kebab-case | button |
 | `{{COMPONENT_FILE}}` | Source file path | components/Button.tsx |
